@@ -6,7 +6,7 @@ module.exports = codebox.settings.schema("packages",
             "repository": {
                 "description": "Repository",
                 "type": "string",
-                "default": "CodeboxIDE/packages"
+                "default": "code-box/packages"
             }
         }
     }
